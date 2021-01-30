@@ -1,0 +1,20 @@
+body{
+    text-align:center;
+      background-color:lightpink;
+    }
+      #heading1{
+      color:darkblue;  
+      }
+    #line{
+      color:red;
+    }
+    #familybook {
+      height:500;
+      width:600;
+    }
+    #heading1{
+      font-size:80px;
+      }
+      #names{
+      font-size:50px;
+      }
